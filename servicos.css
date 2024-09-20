@@ -7,3 +7,6 @@ section img {
     border: 5px solid #00e637; /* Adiciona uma borda verde para destacar */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); /* Adiciona sombra à imagem */
 }
+title{
+    color: rgb(0, 255, 42);
+}
