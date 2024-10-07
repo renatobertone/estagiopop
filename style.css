@@ -58,3 +58,21 @@ footer p {
     font-size: 15px;
     color: #00e637;
 }
+
+section {
+    padding: 60px 20px; /* Ajuste para melhor responsividade em telas menores */
+}
+
+/* Estilo da seção serviços com cor de fundo personalizada */
+.bg-warning {
+    color: #ffffff;
+    background-color: #000a8c !important; /* Azul escuro em vez de amarelo */
+}
+
+ p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .custom-margin {
+    margin-top: -10px; /* Ajuste o valor conforme necessário */
+}
