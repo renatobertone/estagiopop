@@ -66,7 +66,7 @@ section {
 /* Estilo da seção serviços com cor de fundo personalizada */
 .bg-warning {
     color: #ffffff;
-    background-color: #000a8c !important; /* Azul escuro em vez de amarelo */
+    background-color: #000a8c !important; 
 }
 
  p{
